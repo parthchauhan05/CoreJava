@@ -7,7 +7,7 @@ public class A1Q1 {
         int num1 = scan.nextInt();
         System.out.println("Enter Number 2: ");
         int num2 = scan.nextInt();
-        System.out.println("Enter 1 for Addition\n2 for Substraction\n3 for Multiplication\n4 for Division ");
+        System.out.println("Enter 1 for Addition\n2 for Subtraction\n3 for Multiplication\n4 for Division ");
         int operator = scan.nextInt();
         switch (operator) {
             case 1:
