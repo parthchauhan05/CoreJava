@@ -152,3 +152,12 @@ class Audi extends Car {
         System.out.println("Increasing Speed by "+ x + " kmph...");
     }
 }
+
+/*
+* a) I have inherited class Car to 3 different classes, Toyota, Honda and Audi using extend keyword.
+* It allows other classes to use that class's methods and variables.
+*
+* b) For Polymorphism, I have created a method startMusicPlayer which prints different lines for
+* different classes.
+*
+* */
